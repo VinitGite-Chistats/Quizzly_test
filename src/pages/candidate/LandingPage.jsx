@@ -35,7 +35,7 @@ const LandingPage = () => {
       <nav className="fixed z-20 flex items-center justify-between w-full p-3 pr-12 shadow-lg xl:w-full xl:shadow-none lg:shadow-lg md:shadow-lg sm:shadow-lg lg:w-full md:w-full xl:backdrop-blur-none lg:backdrop-blur-md md:backdrop-blur-lg sm:backdrop-blur backdrop-blur-md xl:bg-transparent xl:flex lg:flex md:flex sm:fixed">
         <div className="flex gap-x-1">
           <img src={logo} alt="" className="" />
-          <h2 className="text-3xl font-bold">Quizzly</h2>
+          <h2 className="text-3xl font-bold">Quizly</h2>
         </div>
 
         <div className="flex items-center justify-center gap-x-20">
@@ -67,7 +67,7 @@ const LandingPage = () => {
       <div className="relative flex justify-center mx-auto mt-32 text-center xl:mt-20 lg:mt-20 md:mt-24 sm:mt-28">
         <h1 className="xl:w-[65%] lg:w-[70%] md:w-auto sm:w-auto w-auto  text-5xl sm:text-5xl xl:leading-[120%] lg:leading-[140%] md:leading-[120%] sm:leading-[130%] leading-[120%] z-10 lg:mx-0 md:mx-6 sm:mx-6 mx-6">
           Challenge Your Knowledge and Elevate Your Skills on{" "}
-          <span className="font-semibold">Quizzly</span>
+          <span className="font-semibold">Quizly</span>
         </h1>
         <img
           src={underline}
@@ -79,7 +79,7 @@ const LandingPage = () => {
       {/* About */}
       <div className="flex justify-center mx-auto mt-5 text-center lg:mt-5 md:mt-6 sm:mt-5 ">
         <p className="lg:w-[50%] md:w-[80%] sm:w-full w-full lg:mx-0 md:mx-4 sm:mx-6 mx-6 text-lg font-normal">
-          <span className="font-medium">Quizzly</span> is an interactive quiz app
+          <span className="font-medium">Quizly</span> is an interactive quiz app
           that lets you test your knowledge across various topics while having
           fun. Complete each quiz and get instant feedback, with a personalized
           scorecard displayed at the end to track your performance.

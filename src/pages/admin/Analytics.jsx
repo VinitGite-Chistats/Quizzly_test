@@ -56,7 +56,7 @@ const Analytics = () => {
       <nav className="flex justify-between w-full p-3 bg-white border-b-2 gap-x-1">
         <div className="flex gap-x-2">
           <img src={logo} alt="" className="w-[60%]" />
-          <h2 className="text-2xl font-bold">Quizzly</h2>
+          <h2 className="text-2xl font-bold">Quizly</h2>
         </div>
 
         <div className="flex justify-between w-fit">
